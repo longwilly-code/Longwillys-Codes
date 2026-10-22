@@ -1,0 +1,59 @@
+
+
+
+body {
+  background-image: url("assets/images/background.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  color: rgb(87, 100, 217);
+}
+
+.box {
+    background-color: rgba(255, 255, 255, 0.9);
+    padding: 1px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+    max-width: 60%;
+    margin: 20px auto
+    p
+
+}
+
+.box2 {
+    background-color: rgba(255, 255, 255, 0.9);
+    padding: 1px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+    max-width: 60%;
+    margin: 20px auto
+    p
+}
+
+
+
+
+h2 {
+  color: rgb(87, 100, 217);
+  font-family: 'Poppins', sans-serif;
+  font-size: 50px
+  
+}
+
+h3 {
+    color: rgb(87, 100, 217);
+    font-size: 25px;
+    font-family: 'Poppins', sans-serif;
+}
+
+section {
+  margin-bottom: 20px;
+  font-family: 'Poppins', sans-serif;
+}
+
+footer {
+  color: lightblue;
+  font-family: 'Poppins', sans-serif;
+  font-size: 25px;
+}
